@@ -10,3 +10,9 @@
 * git add
 * git commit
 * git mv
+* git checkout
+* git rm -r
+* git diff --output=...
+* git log
+* git tag -a ... -m ...
+* git merge
