@@ -30,3 +30,6 @@
 7. Pull Request für Branch main nach Branch Version1Backup erstellt
 8. Merge Konflikte gelöst und danach den Branch Version1Backup gelöscht
 
+### Abbildung des Netzwerkgraphen zur Unterstützung der Erklärung
+
+![Netzwerkgraph Repo](/NetworkGraph.png)
