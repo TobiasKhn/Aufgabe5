@@ -1,0 +1,11 @@
+diff --git a/README.md b/README.md
+index 9baa932..41e75e1 100644
+--- a/README.md
++++ b/README.md
+@@ -10,3 +10,6 @@
+ * git add
+ * git commit
+ * git mv
++* git checkout
++* git rm -r
++* git diff
