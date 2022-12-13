@@ -33,3 +33,7 @@
 ### Abbildung des Netzwerkgraphen zur Unterstützung der Erklärung
 
 ![Netzwerkgraph Repo](/NetworkGraph.png)
+
+## Pull Request nach edlich/education
+
+https://github.com/edlich/education/pull/388
